@@ -364,16 +364,8 @@ nav .navbar .links li:hover .js-sub-menu {
   height: 50%;
   
   text-align: center;
-  background-image:  linear-gradient(#020024, #a72bcc, #28ceda); /* Gradient background */
-}
-.flex-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 50%;
-  padding: 2cm;
-  text-align: center;
-  background-image: linear-gradient(#020024, #a72bcc, #28ceda); /* Gradient background */
+  background-color: whitesmoke;
+  /*background-image:  linear-gradient(#020024, #a72bcc, #28ceda);  Gradient background */
 }
 
 
